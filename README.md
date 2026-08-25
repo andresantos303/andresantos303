@@ -2,7 +2,7 @@
 <h4>I’m a motivated and detail-oriented junior developer with hands-on experience in full-stack development, recently graduated in in Web Technologies and Systems. I’ve worked on real-world projects using technologies such as JavaScript, React, Vue.js, Node.js, Express, MySQL, and MongoDB – with a solid understanding of both front-end and back-end workflows. Through academic and part-time professional experiences, I’ve contributed to app development, API creation, WordPress content management, and even assisted in preparing presentations for programming workshops. I'm proactive, enjoy working in collaborative environments, and have strong communication skills.</h3>
 
 - 🌍 I'm based in Santa Maria da Feira, Aveiro, Portugal
-- 🔭 I’m currently working on [CinemasApp](https://github.com/andresantos303/CinemasApp)
+- 🔭 I’m currently working on [BarberShop](https://github.com/andresantos303/Barber-shop) and improving [CinemasApp](https://github.com/andresantos303/CinemasApp)
 - 🌱 I’m currently learning **Python and improving my AI engineering skills**
 - ✉️  You can contact me at [andrecostasantos2003@gmail.com](mailto:andrecostasantos2003@gmail.com)
 - ⚡ Fun fact **I'm interest in learning new languages and exploring cultures through technology. Passionate about sports such as football, skateboarding, and motorsports, maintaining an active and disciplined lifestyle outside the professional environment.**
