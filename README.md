@@ -8,7 +8,7 @@ I’m a motivated and detail-oriented junior developer with hands-on experience 
 
 * 🌍  I'm based in Porto, Portugal
 * ✉️  You can contact me at [andrecostasantos2003@gmail.com](mailto:andrecostasantos2003@gmail.com)
-* 🚀  I'm currently working on [CinemasAPP](github.com/andresantos303/CinemasApp)
+* 🚀  I'm currently working on [CinemasAPP](htts://github.com/andresantos303/CinemasApp)
 * 🧠  I'm learning Python, FastAPI and GraphQL.
 * 🤝  I'm open to collaborating on JavaScript and Node.js
 * ⚡  Interest in learning new languages and exploring cultures through technology. Passionate about sports such as football, skateboarding, and motorsports, maintaining an active and disciplined lifestyle outside the professional environment.
