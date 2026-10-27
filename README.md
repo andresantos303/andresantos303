@@ -1,5 +1,11 @@
 <h1>Hi 👋, I'm André Santos</h1>
-<h4>I’m a motivated and detail-oriented junior developer with hands-on experience in full-stack development, recently graduated in in Web Technologies and Systems. I’ve worked on real-world projects using technologies such as JavaScript, React, Vue.js, Node.js, Express, MySQL, and MongoDB – with a solid understanding of both front-end and back-end workflows. Through academic and part-time professional experiences, I’ve contributed to app development, API creation, WordPress content management, and even assisted in preparing presentations for programming workshops. I'm proactive, enjoy working in collaborative environments, and have strong communication skills.</h4>
+<p>I’m a full-stack developer working mostly with React Node.js, Express, TypeScript, GraphQL and MongoDB. I finished my Bachelor’s in Web Technologies and Systems in 2026.
+
+I enjoy building APIs, connecting them to other services, and making the interface people use to reach them. Recently I built FlowShip, a Shopify app that picks the carrier and shipping rate for each order from live carrier APIs and merchant-defined rules. Before that I wrote a Moodle integration that syncs courses and subjects automatically, replacing 8 hours of manual work a month, and an e-commerce app for selling programming courses online.
+
+At university I also worked with Vue.js, Python, MySQL, MongoDB, GraphQL microservices documented with Swagger, and Docker Swarm.
+
+I’m looking for a full-stack or back-end role. If your team is hiring, message me here or email andrecostasantos2003@gmail.com.</p>
 
 - 🌍 I'm based in Santa Maria da Feira, Aveiro, Portugal
 - 🔭 I’m currently working on a freelancer project.
