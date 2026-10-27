@@ -10,7 +10,6 @@ I’m looking for a full-stack or back-end role. If your team is hiring, message
 - 🌍 I'm based in Santa Maria da Feira, Aveiro, Portugal
 - 🔭 I’m currently working on a freelancer project.
 - 🌱 I’m currently learning **Python and improving my AI engineering skills**
-- ✉️  You can contact me at [andrecostasantos2003@gmail.com](mailto:andrecostasantos2003@gmail.com)
 - ⚡ Fun fact **I'm interest in learning new languages and exploring cultures through technology. Passionate about sports such as football, skateboarding, and motorsports, maintaining an active and disciplined lifestyle outside the professional environment.**
 
 <h3 align="left">Connect with me:</h3>
